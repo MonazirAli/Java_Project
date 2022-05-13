@@ -1,0 +1,13 @@
+package tutorial;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int helloWorld=7;double num2=5.0;boolean b = true; char c='m';
+		String str ="Monazir";
+		System.out.println(helloWorld);
+		System
+	}
+
+}
